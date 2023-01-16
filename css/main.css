@@ -2772,7 +2772,7 @@ body {
     outline: 0; }
 
 img {
-  max-width: 100%;
+  max-width: 50%;
   border-radius: 1px; }
 
 .img-raised {
