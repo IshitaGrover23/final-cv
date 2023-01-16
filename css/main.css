@@ -2363,7 +2363,7 @@ body {
   visibility: visible; }
 
 .separator {
-  height: 20px;
+  height: 2px;
   width: 44px;
   background-color: #888;
   margin: 20px auto; }
